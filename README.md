@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <!-- Stats -->
  <div>
-  <a href="https://github.com/zoyo23">
+  <a href="https://github.com/phmxavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmxavier&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmxavier&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
-<a href="https://app.daily.dev/phmxavier"><img src="https://api.daily.dev/devcards/8bcdca0b611d4ec4b216714048c6cd45.png?r=qjy" width="400" alt="Pedro Xavier's Dev Card"/></a>
